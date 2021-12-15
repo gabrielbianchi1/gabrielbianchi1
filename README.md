@@ -1,6 +1,6 @@
  #Olá eu sou Gabriel Bianchi!
 
-- 👀 Procurando expandir e agregar minhas fontes de conhecimento.
+- 👀 Procurando expandir minhas fontes de conhecimento.
 - 🌱 Estudando TypeScript, JavaScript, Java e SQL
 
 <div style="display: inline_block"><br>
