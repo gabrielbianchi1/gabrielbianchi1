@@ -1,7 +1,7 @@
  #Olá eu sou Gabriel Bianchi!
 
 - 👀 Procurando expandir minhas fontes de conhecimento.
-- 🌱 Estudando TypeScript, JavaScript, Java e SQL
+- 🌱 Estudando TypeScript, JavaScript, Phyton e SQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
